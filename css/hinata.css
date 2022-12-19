@@ -1,0 +1,81 @@
+.div1{
+    background-color: blueviolet;
+    color: blanchedalmond;
+}
+.courses{
+    margin: -19px 10px 10px 60px;
+}
+.about{
+    margin: -27px 10px 10px 130px;
+}
+.register{
+    margin: -29px 10px 10px 220px;
+}
+.login{
+    margin: -29px 10px 10px 300px;
+}
+.div2{
+    background-image: url(../images/2.jpeg);
+    height: 350px;
+    margin: -15px 0px 0px 0px;
+}
+.p{
+    font-size: 40px;
+    text-align: center;
+}
+.div3{
+    opacity: 0.5;
+    background-color: gold;
+    padding: 2px 2px 20px 2px;
+    margin: 10px 1020px 10px 10px;
+}
+.div4{
+    background-color: rgb(212, 125, 255);
+    margin:10px 950px 10px 100px ;
+
+}
+.div5{
+    background-color: rgb(127, 191, 255);
+    margin: 0px 700px 0px 400px;
+}
+.buy{
+    background-color: blue;
+    margin: 0px 10px 0px 150px;
+    color: aliceblue;
+}
+.div6{
+    background-color: blueviolet;
+    margin: 0px 400px 0px 600px;
+}
+.li{
+    background-color: aqua;
+    margin: 0px 10px 0px 0px;
+}
+.li2{
+    background-color: darkkhaki;
+    margin: 0px 10px 0px 0px;
+}
+.li3{
+    background-color: darkkhaki;
+    margin: 0px 10px 0px 0px;
+}
+.div7{
+    background-color: gold;
+    margin: 0px 200px 0px 800px;
+}
+.row1{
+    background-color: gold;
+}
+.row2{
+    background-color: rgb(82, 37, 125);
+}
+.row3{
+    background-color: aqua;
+}
+.row4{
+    background-color:   rgb(82, 37, 125);
+    
+}
+.p2{
+    font-size: 13px;
+}

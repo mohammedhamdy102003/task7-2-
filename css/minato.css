@@ -1,0 +1,374 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div1{
+     background-color: darkgray;
+     color: black;
+     height:100px ;
+}
+.links{
+    margin: -60px 0px 0px 1100px;
+    list-style: none;
+
+}
+.home{
+    color: blue;
+
+}
+.work{
+    margin: -18px 0px 0px 55px;
+}
+.services{
+    margin: -18px 0px 0px 100px;
+}
+.about{
+    margin: -18px 0px 0px 165px;
+}
+.blog{
+    margin: -18px 0px 0px 220px;
+}
+.contact{
+    margin: -18px 0px 0px 260px;
+}
+.div2{
+    background-image: url(../images/back.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 990px;
+}
+.p1{
+    font-size: 55px;
+    color: rgb(240, 248, 255,0753);
+    text-align: center;
+    position: relative;
+    top: 200px;
+
+}
+.p2{
+    font-size: 20px;
+    color:rgb(240, 248, 255,0753) ;
+    position: relative;
+    top: 220px;
+    text-align: center;
+}
+.p3{
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    margin: 0px 0px 0px 250px;
+}
+.watch{
+    border-radius: 20px;
+    color: black;
+    text-align: center;
+    background-color: rgb(240, 248, 255,0.462);
+    width: 100px;
+    height: 50px;
+    border: white;
+    position: relative;
+    top: 220px;
+    margin: 0px 0px 0px 700px;
+
+}
+.diva{
+    width: 30%;
+    padding: 10px;
+}
+.p4{
+    color: blue;
+    font-size: 30px;
+}
+.p6{
+    color: blue;
+    font-size: 30px;
+}
+.divb{
+    width: 30%;
+    padding: 10px;  
+}
+.p8{
+    color: blue;
+    font-size: 30px; 
+}
+.divc{
+    width: 30%;
+    padding: 10px;
+}
+.links2{
+   list-style: inside;
+   list-style-type: armenian;
+   color: blue;
+   
+}
+.div3{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.list{
+    color: black;
+}
+.img2{
+    margin:0px 0px 0px 60px ;
+}
+.img1{
+    margin:0px 0px 0px 20px ; 
+}
+.img3{
+    margin:0px 0px 0px 60px ;
+}
+.img4{
+    margin:20px 0px 0px 20px ;  
+}
+.img5{
+    margin:20px 0px 0px 60px ; 
+}
+.img6{
+    margin:20px 0px 0px 60px ;
+    
+}
+.our{
+    font-size: 50px;
+    text-align: center;
+}
+.p10{
+    text-align: center;
+    width: 70%;
+    margin: 0px 0px 0px 140px;
+}
+.div5{
+    background-color: black;
+    width: 80%;
+    color: aliceblue;
+    padding: 50px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 0px 0px 0xp 60px;
+    position: relative;
+    left: 35px;
+    
+
+}
+.divn{
+    padding: 10px;
+    width: 25%;
+    margin: 0px 20px 0px 0px;
+
+    
+}
+.divh{
+    padding: 10px;
+    width: 25%;
+    margin: -120px 0px 0px 270px;
+}
+.divs{
+    padding: 10px;
+    width: 25%;
+    margin: 30px 20px 0px 0px;
+}
+.divk{
+    padding: 10px;
+    width: 25%;
+    margin: -120px 0px 0px 270px;
+}
+.par2{
+    color: darkgray;
+}
+.par3{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+.par4{
+    width: 70%;
+    text-align: center;
+    color: darkgray;
+    position: relative;
+    left: 100px;
+}
+.par5{
+    position: relative;
+    margin: -30px 0px 0px 550px;
+}
+.div7{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row; 
+}
+
+.divweb{
+    width: 30%;
+}
+.divecommerce{
+    width: 30%;
+}
+.divapplications{
+    width: 30%;
+}
+.first{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.second{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.divbranding{
+    width: 30%;
+}
+.divecopy{
+    width: 30%;
+}
+.divemobile{
+    width: 30%;
+}
+.ours{
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    left: 580px;
+}
+.ecommerce{
+    font-size: 25px;
+}
+.copy{
+    font-size: 25px;
+}
+.branding{
+    font-size: 25px;
+}
+.applications{
+    font-size: 25px;
+}
+.web{
+    font-size: 25px;
+}
+.g1{
+    width: 40%;
+    padding: 20px;
+    
+}
+.g2{
+    width: 20%;
+    padding: 20px;
+}
+.g3{
+    width: 20%;
+    padding: 20px;
+
+}
+.g4{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.img10{
+    margin: -160px 0px 0px 160px;
+}
+.par9{
+    color: darkgray;
+}
+.g7{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;  
+}
+.d1{
+    width: 31%;
+    
+}
+.d2{
+    width: 31%;
+}
+.d3{
+    width: 31%;
+}
+.photo1{
+    border-radius: 60px;
+    position: relative;
+    left: 160px;
+}
+.vv{
+    position: relative;
+    left: 120px;
+    padding: 10px;
+}
+.po{
+    color: darkgray;
+    text-align: center;
+}
+.div8{
+    padding: 20px;
+}
+.div10{
+    background-color: hotpink;
+    padding: 60px;
+}
+.form1{
+    background-color: aliceblue;
+    padding: 30px;
+}
+.ft{
+    width: 40%;
+}
+.ct{
+    width: 92%;
+}
+.submit{
+    position: relative;
+    left: 600px;
+    border-radius: 20px;
+    width: 100px;
+    height: 50px;
+}
+.con{
+
+    font-size: 40px;
+    text-align: center;
+   margin: 0px 0px 0px 75px;
+}
+.f1{
+    width: 20%;
+}
+.f2{
+    width: 20%;
+}
+.f3{
+    width: 20%;
+    position: relative;
+    left: 100px;
+}
+.div11{
+    background-color: rgb(55, 53, 53);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 60px;
+}
+.us{
+    position: relative;
+    left: 100px;
+}
+.features{
+    position: relative;
+    left: 150px;
+}
+.f4{
+    width: 20%;
+    position: relative;
+    left: 80px;
+}
+.sumbit2{
+    margin: 0px 0px 0px 30px;
+    border-radius: 20px;
+}

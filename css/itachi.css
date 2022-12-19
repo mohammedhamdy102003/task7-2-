@@ -1,0 +1,57 @@
+div{
+    background-color: darkgray;
+}
+.img1{
+    margin: -10px 800px 50px 700px;
+    padding: 10px 600px 50px 60px;
+    border: 10px;
+}
+.p{
+    font-size: 20px;
+    text-align: center;
+    margin: -30px 10px 10px 10px;
+}
+.form1{
+    background-color: black;
+    color: aliceblue;
+    margin: 10px 1050px 400px 300px;
+    border: 100px 500px 300px 400px;
+    padding: 10px 100px 10px 10px;
+}
+.form2{
+    background-color: black;
+    color: aliceblue;
+    margin: -450px 1050px 400px 600px;
+    border: 100px 500px 300px 400px;
+    padding: 10px 100px 10px 10px;
+}
+.form3{
+    background-color: black;
+    color: aliceblue;
+    margin: -400px 1050px 400px 800px;
+    border: 100px 500px 300px 400px;
+    padding: 10px 100px 10px 10px;
+}
+.form4{
+    background-color: black;
+    color: aliceblue;
+    margin: -300px 1050px 400px 1000px;
+    border: 100px 500px 300px 400px;
+    padding: 10px 100px 10px 10px;
+}
+.link{
+    background-color: black;
+    color: aliceblue;
+}
+.service{
+    margin: -18px 10px 10px 70px;
+}
+.products{
+    margin: -28px 10px 10px 150px;
+}
+.about{
+    margin: -29px 10px 10px 250px;
+}
+.login{
+    margin: -29px 10px 10px 350px;
+}

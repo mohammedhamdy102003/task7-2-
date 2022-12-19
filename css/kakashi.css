@@ -1,0 +1,197 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div1{
+    background-image: url("../images/eid.jpg");
+    height: 800px;
+  background-size: contain;
+    color: aliceblue;
+    width: 100%;
+
+}
+.p{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Ms Madi', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Passions Conflict', cursive;
+font-size: 45px;
+margin: 0px 0px 0px 0px;
+}
+.link1{
+    float: right;
+    list-style: none;
+    font-size: 20px;
+    margin: -25px 0px 0px 0px;
+}
+.home{
+    src: url(../fontawesome-free-6.2.0-web/css/solid.css);
+    background-color: rgb(207, 184, 54);
+    margin: 0px 400px 0px 100px;
+
+}
+.about{
+    background-color: rgb(33, 31, 31);
+    margin: -23px 260px 0px 205px;
+    
+}
+.portfolio{
+    background-color: rgb(33, 31, 31);
+    margin: -22px 130px 0px 280px;
+   
+}
+.contact{
+    background-color: rgb(33, 31, 31);
+    margin: -23px 130px 0px 390px;
+
+}
+.p2{
+    text-align: center;
+    font-size: 90px;
+    margin: 350px 270px 0px 0px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Ms Madi', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Passions Conflict', cursive;
+}
+.p3{
+    margin: -195px 0px 0px 530px;
+    font-size: 90px;
+    color: rgb(209, 194, 106);
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Ms Madi', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Passions Conflict', cursive;
+} 
+.div2{
+    color: black;
+}
+.p4{
+    color: rgb(225, 204, 86);
+    font-size: 30px;
+    text-align: center;
+}
+.divb{
+    background-color: rgb(80, 79, 79);
+    color: aliceblue;
+    margin: 0px 950px 0px 20px ;
+    height: 250px;
+    width: 22%;
+    padding: 10px;
+    box-shadow: 5px 5px 10px 1px black;
+}
+.par1{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+.divc{
+   background-color:  rgb(225, 204, 86);
+    color: black;
+    margin: -270px 600px 0px 380px;
+    height: 250px;
+    width: 23%;
+    box-shadow: 5px 5px 10px 1px black;
+    padding: 10px;
+    
+}
+.par2{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+.par3{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+.divd{
+    background-color: rgb(80, 79, 79);
+    color: aliceblue;
+    margin: -270px 950px 0px 760px ;
+    height: 250px;
+    width: 22%; 
+    box-shadow: 5px 5px 10px 1px black;
+    padding: 10px;
+}
+.dive{
+    background-color: rgb(225, 204, 86);
+    color: black;
+    margin: -270px 600px 0px 1120px;
+    height: 250px;
+    width: 21%;
+    box-shadow: 5px 5px 10px 1px black;
+    padding: 10px;
+}
+.p5{
+    color: rgb(225, 204, 86);
+    font-size: 30px;
+    text-align: center;
+}
+.div4{
+    background-image:url(../images/8.jpg) ;
+    height: 700px;
+}
+.divf{
+    opacity: 0.7;
+    background-color: rgb(5, 105, 105);
+    height: 550px;
+    margin: 0px 100px 0px 150px;
+    border: 3px solid gold;
+}
+.paragraph{
+    color: aliceblue;
+    opacity: 1;
+    text-align: center;
+    font-size: 40px;
+}
+.paragraph2{
+    color: aliceblue;
+    opacity: 1;
+    text-align: center;
+    margin: -20px 0px 0px 0px;
+}
+.text1{
+   
+    color: gold;
+    margin: 50px 120px 0px 30px ;
+    background-color: rgb(45, 189, 189);
+    border: 3px solid gold;
+
+}
+.text2{
+    color: gold;
+    margin: 50px 120px 0px 30px ;
+    background-color: rgb(45, 189, 189);
+    border: 3px solid gold;
+}
+.divg{
+    margin: 50px 120px 0px 30px ;
+    background-color: rgb(7, 51, 51);
+    height: 270px;
+}
+.div5{
+    background-color:yellow;
+    color: black;
+}
+.table{
+    font-size: 15px;
+    margin:40px 10px 10px 90px ;
+    width: 2500px;
+    
+}
+.area{
+    width: 90%;
+    height: 250px;
+    margin: 0px 0px 0px 30px;
+    background-color: rgb(45, 189, 189);
+}
+.divblue{
+    background-color: darkcyan;
+    margin: -10px 20px 0px 20px;
+    border: 3px solid gold;
+}
+
+

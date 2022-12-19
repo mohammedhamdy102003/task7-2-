@@ -1,0 +1,159 @@
+.div1{
+    background-color: red;
+
+}
+.logo{
+    height: 20px;
+}
+.home{
+    
+    margin: -30px 1420px 0px 10px;
+    color: aliceblue;
+}
+.Html{
+    background-color: brown;
+    margin: -19px 1420px 0px 70px;
+    color: aliceblue;
+}
+.Css{
+    background-color: brown;
+    margin: -18px 1420px 0px 130px;
+    color: aliceblue;
+}
+.Js{
+    background-color: brown;
+    margin: -19px 1420px 0px 180px;
+    color: aliceblue;
+}
+.div2{
+    background-image: url(../images/background.png);
+    background-size: contain;
+    margin: -50px 0px 0px 0px;
+
+    height: 1000px;
+    background-repeat: no-repeat;
+    
+}
+.p{
+    font-size: 50px;
+    text-align: center;
+}
+.view{
+    background-color: red;
+    color: aliceblue;
+    margin: 300px 0px 0px 500px;
+    width: 15%;
+
+}
+.start{
+    background-color: red;
+    color: aliceblue;
+    width: 15%;
+    margin: 0px 0px 0px 30px;
+}
+.tr1{
+    background-color: darkgrey;
+    color: aliceblue
+}
+.tr2{
+    background-color: rgb(49, 48, 48);
+    color: aliceblue;
+}
+.tr3{
+    background-color: darkgrey;
+    color: aliceblue
+}
+.tr4{
+    background-color: rgb(49, 48, 48);
+    color: aliceblue;
+}
+.tr5{
+    background-color: darkgrey;
+    color: aliceblue
+}
+.p2{
+    text-align: center;
+    font-size: 30px;
+
+}
+.table{
+    margin: 0px 10px 0px 300px;
+    width: 60%;
+}
+.now1{
+    background-color: red;
+    color: black;
+    margin: 0px 0px 0px 20px;
+}
+.now2{
+    background-color: red;
+    color: black;
+    margin: 0px 0px 0px 20px;
+}
+.now3{
+    background-color: red;
+    color: black;
+    margin: 0px 0px 0px 20px;
+}
+.now4{
+    background-color: red;
+    color: black;
+    margin: 0px 0px 0px 20px;
+}
+.now5{
+    background-color: red;
+    color: black;
+    margin: 0px 0px 0px 20px;
+}
+.p3{
+    font-size: 30px;
+    text-align: center;
+}
+.div4{
+    background-image: url(../images/back2.jpg);
+    height: 550px;
+
+}
+.mh{
+    background-color: gray;
+    width: 23%;
+    
+    
+    
+}
+.pp{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: black;
+}
+.x{
+    color: aliceblue;
+}
+.htmlcourse{
+    background-color: red;
+    color: aliceblue;
+    width: 100%;
+    
+}
+.bh{
+    background-color: gray;
+    width: 23%;
+    margin: -370px 10px 0px 490px;
+    
+}
+.mo{
+    background-color: gray;
+    width: 23%;
+    margin: -390px 10px 0px 950px;
+}
+.hokage{
+    background-color: rgb(84, 135, 255);
+    width: 30%;
+    margin: 100px 0px 0px 50px;
+
+}
+.naruto{
+    background-color: coral;
+    width: 30%;
+    margin: -360px 0px 0px 800px;
+}

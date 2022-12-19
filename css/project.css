@@ -1,0 +1,250 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div1{
+    background-image: url(../pp/vecteezy_abstract-colorful-line-wave-on-black-background-use-for_3705356.jpg);
+    background-size: contain;
+    height: 850px;
+    color: aliceblue;
+    
+    overflow: hidden;
+}
+.p1{
+    font-size: 55px;
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 35px;
+
+}
+.p2{
+    font-size: 45px;
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+.img1{
+    border-radius: 30px;
+    position: relative;
+    top:30px;
+    margin-left: 700px;
+}
+.home{
+    color:black;
+    background-color:#DCDCDC;
+    height: 60px;
+    width: 100px;
+    border-radius: 20px;
+    padding: 20px;
+    text-decoration: none;
+    position: relative;
+    left: 700px;
+    top: 100px;
+    
+    
+}
+.div0{
+    background-color: #0d032a;
+}
+.links{
+    margin: 0px 0px 0px 1100px;
+    list-style-type: none;
+    padding: 10px;
+    font-size: 20px;
+}
+.login{
+    text-decoration: none;
+    color: #DCDCDC;
+    right: 30px;
+    position: relative;
+    
+}
+.sign{
+    margin: 0px 0px 0px 50px;
+    position:relative ;
+    top: -21px;
+    color: #DCDCDC;
+    text-decoration: none;
+    
+}
+.contact{
+    margin: 0px 0px 0px 50px;
+    position:relative ;
+    top: -42px;
+    left: 80px;
+    color: #DCDCDC;
+    text-decoration: none;
+}
+.home:hover{
+    background-color: bisque;
+    transform: scale(0.5,0.5);
+
+    
+}
+.login:hover{
+    background-color: bisque;
+    color: black;
+}
+.sign:hover{
+    background-color: bisque;
+    color: black;
+}
+
+.contact:hover{
+    background-color: bisque;
+    color: black;
+}
+.p7{
+    color: #DCDCDC;
+    font-family: 'Ms Madi', cursive;
+    text-align: center;
+    font-size: 25px;
+}
+.p8{
+    color: #DCDCDC;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    top: -10px;
+}
+.foot{
+    background-color: #0d032a;
+    padding: 20px;
+}
+.icons{
+  margin-left: 630px;
+  padding: 10px;
+  color: #DCDCDC;
+} 
+@media (max-width:600px) {
+    .div0 {
+        background-color: #0d032a;
+        
+    }
+    .links{
+        margin: 0px 0px 0px 360px;
+        list-style-type: none;
+        padding: 10px;
+        font-size: 20px;
+    }
+    #search{
+        font-size: 25px;
+        color: aliceblue;
+        margin: 50px 0px 0px 150px;
+    }
+    .div1 {
+    background-image: url(../pp/vecteezy_abstract-colorful-line-wave-on-black-background-use-for_3705356.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.home{
+   
+    position: relative;
+    left: 230px;
+    top: 120px;
+    
+    
+}
+.foot {
+    background-color: #0d032a;
+    padding: 20px;
+    height: 300px;
+}
+.icons{
+    margin-left: 130px;
+    padding: 10px;
+  } 
+.img1{
+    top:30px;
+    margin-left: 250px;
+}
+.p1{
+    margin-top: 25px;
+    font-size: 20px;
+}
+}
+@media (min-width:768px) and (max-width:992px) {
+    .div0 {
+        background-color: #0d032a;
+        width: 1400px;
+    }
+    .div1 {
+        background-image: url(../pp/vecteezy_abstract-colorful-line-wave-on-black-background-use-for_3705356.jpg);
+        background-size: contain;
+        height: 1300px;
+        color: aliceblue;
+        width: 1400px;
+    }
+.foot {
+    background-color: #0d032a;
+    padding: 20px;
+    width: 1360px;
+}
+
+}
+@media (min-width:600px)and (max-width:768) {
+    .div0 {
+        background-color: #0d032a;
+        width: 1500px;
+    }
+.div1 {
+    background-image: url(../pp/vecteezy_abstract-colorful-line-wave-on-black-background-use-for_3705356.jpg);
+    background-size: contain;
+    height: 1498px;
+    color: aliceblue;
+    width: 1500px;
+}
+.foot {
+    width: 1500px;
+    background-color: #0d032a;
+    padding: 20px;
+    height: 1500px;
+}
+}
+@media (min-width:768px) and (max-width:992px) {
+    .div0 {
+        background-color: #0d032a;
+        width: 1400px;
+    }
+    .div1 {
+        background-image: url(../pp/vecteezy_abstract-colorful-line-wave-on-black-background-use-for_3705356.jpg);
+        background-size: contain;
+        height: 1300px;
+        color: aliceblue;
+        width: 1400px;
+    }
+.foot {
+    background-color: #0d032a;
+    padding: 20px;
+    width: 1360px;
+    height: 500px;
+}
+
+}
+@media (min-width:992px)and (max-width:1200px) {
+    .nav {
+        background-color: #0d032a;
+        width: 1380px;
+    }
+    .div0 {
+        background-image: url(../pp/white3.jpeg);
+        height: 1300px;
+        background-size: contain;
+        width: 1380px;
+    }
+    .div02 {
+        background-image: url(../pp/white3.jpeg);
+        height: 800px;
+        padding: 20px;
+        width: 1379px;
+    }
+    .foot {
+        background-color: #0d032a;
+        padding: 20px;
+        width: 1380px;
+    }
+    
+ }

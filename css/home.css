@@ -1,0 +1,404 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div1{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    position: relative;
+    top: 10px;
+}
+.divb{
+    width: 50%;
+    position: relative;
+    left: 50px;
+    top: 60px;
+    
+}
+.p1{
+    font-size: 75px;
+font-family:'Alkalami', serif;
+text-align: center;
+}
+.div0{
+    background-image: url(../pp/white3.jpeg);
+    height: 1300px;
+    background-size: contain;
+    
+}
+.p2{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+.p4{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+.div2{
+    padding: 20px;
+}
+.html2{
+    width: 30%;
+}
+.css2{
+    width: 30%;
+    margin-left: 35px;
+    
+}
+.c2{
+    width: 30%;
+    margin-left: 50px;
+}
+.python2{
+    width: 40%;
+    margin-top: 18px;
+}
+.js2{
+    width: 40%;
+    margin-left: 90px;
+    margin-top: 18px;
+}
+.div2{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    position: relative;
+    top: 10px;
+    margin: 20px;
+}
+.html{
+    width: 100%;
+}
+.css{
+    width: 100%;
+}
+.c{
+    width: 100%;
+}
+.python{
+width: 100%;
+}
+.java{
+    width: 100%;
+}
+.project1{
+width: 30%;
+background-color: darkgrey;
+height: 350px;
+}
+.pr1{
+
+    font-size: 25px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.itachi{
+    text-decoration: none;
+    width: 200px;
+    height: 150px;
+    color:black;
+    background-color:#DCDCDC;
+    border-radius: 20px;
+    position: relative;
+    left: 160px;
+    top: 30px;
+    padding: 20px;
+}
+.project2{
+    width: 30%;
+background-color: darkgrey;
+height: 350px;
+}
+.pr2{
+    font-size: 25px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.div02{
+    background-image: url(../pp/white3.jpeg);
+    height: 800px;
+    padding: 20px;
+}
+.pr3{
+    font-size: 25px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.vv{
+    text-decoration: none;
+    width: 200px;
+    height: 150px;
+    color:black;
+    background-color:#DCDCDC;
+    border-radius: 20px;
+    position: relative;
+    left: 160px;
+    top: 30px;
+    padding: 20px;
+}
+.project3{
+    width: 30%;
+    background-color: darkgrey;
+    height: 350px;
+}
+.project4{
+    width: 30%;
+    background-color: darkgrey;
+    height: 350px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.pr4{
+    font-size: 25px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.eid{
+    text-decoration: none;
+    width: 200px;
+    height: 150px;
+    color:black;
+    background-color:#DCDCDC;
+    border-radius: 20px;
+    position: relative;
+    left: 160px;
+    top: 30px;
+    padding: 20px;
+}
+.madrid{
+    text-decoration: none;
+    width: 200px;
+    height: 150px;
+    color:black;
+    background-color:#DCDCDC;
+    border-radius: 20px;
+    position: relative;
+    left: 160px;
+    top: 30px;
+    padding: 20px;
+}
+.Project5{
+    width: 30%;
+    background-color: darkgrey;
+    height: 350px; 
+    margin-top: 25px;
+    margin-right: 25px;
+}
+.pr5{
+    font-size: 25px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.dis{
+    text-decoration: none;
+    width: 200px;
+    height: 150px;
+    color:black;
+    background-color:#DCDCDC;
+    border-radius: 20px;
+    position: relative;
+    left: 160px;
+    top: 30px;
+    padding: 20px;
+}
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.nav{
+    background-color: #0d032a;
+}
+.links{
+    margin: 0px 0px 0px 1100px;
+    list-style-type: none;
+    padding: 10px;
+    font-size: 20px;
+}
+.login{
+    text-decoration: none;
+    color: #DCDCDC;
+    right: 30px;
+    position: relative;
+    
+}
+.sign{
+    margin: 0px 0px 0px 50px;
+    position:relative ;
+    top: -21px;
+    color: #DCDCDC;
+    text-decoration: none;
+    
+}
+.contact{
+    margin: 0px 0px 0px 50px;
+    position:relative ;
+    top: -42px;
+    left: 80px;
+    color: #DCDCDC;
+    text-decoration: none;
+}
+.login:hover{
+    background-color: bisque;
+    color: black;
+}
+.sign:hover{
+    background-color: bisque;
+    color: black;
+}
+
+.contact:hover{
+    background-color: bisque;
+    color: black;
+}
+.project1:hover{
+    background-color: beige;
+    color: black;
+}
+.project2:hover{
+    background-color: beige;
+    color: black;
+}
+.project3:hover{
+    background-color: beige;
+    color: black;
+}
+.project4:hover{
+    background-color: beige;
+    color: black;
+}
+.Project5:hover{
+    background-color: beige;
+    color: black;
+}
+.p6{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px; 
+}
+.p7{
+    color: #DCDCDC;
+    font-family: 'Ms Madi', cursive;
+    text-align: center;
+    font-size: 25px;
+}
+.p8{
+    color: #DCDCDC;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    top: -10px;
+}
+.foot{
+    background-color: #0d032a;
+    padding: 20px;
+}
+.icons{
+  margin-left: 630px;
+  padding: 10px;
+}
+ @media (min-width:768px) and (max-width:992px){
+.nav {
+    background-color: #0d032a;
+    width: 1420px;
+}
+.div0 {
+    background-image: url(../pp/white3.jpeg);
+    height: 1300px;
+    background-size: contain;
+    width: 1420px;
+}
+
+.foot {
+    background-color: #0d032a;
+    padding: 20px;
+    width: 1380px;
+}
+.div02 {
+    background-image: url(../pp/white3.jpeg);
+    height: 800px;
+    padding: 20px;
+    width: 1380px;
+}
+
+ }
+ @media (max-width:600px) {
+    .nav {
+        width: 1540px;
+        background-color: #0d032a;
+    }
+    .div0 {
+        background-image: url(../pp/white3.jpeg);
+        height: 1300px;
+        background-size: contain;
+        width: 1540px;
+    }
+    .foot {
+        width: 1440px;
+        background-color: #0d032a;
+        padding: 50px;
+        height: 800px;
+    }
+    .div02 {
+        background-image: url(../pp/white3.jpeg);
+        height: 1200px;
+        padding: 20px;
+        width: 1500px;
+    }
+    
+ }
+ @media (min-width:992px)and (max-width:1200px) {
+    .nav {
+        background-color: #0d032a;
+        width: 1380px;
+    }
+    .div0 {
+        background-image: url(../pp/white3.jpeg);
+        height: 1300px;
+        background-size: contain;
+        width: 1380px;
+    }
+    .div02 {
+        background-image: url(../pp/white3.jpeg);
+        height: 800px;
+        padding: 20px;
+        width: 1379px;
+    }
+    .foot {
+        background-color: #0d032a;
+        padding: 20px;
+        width: 1380px;
+    }
+    
+ }
+ @media (min-width:600px)  and (max-width:768px){
+    .nav {
+        width: 1540px;
+        background-color: #0d032a;
+    }
+    .div0 {
+        background-image: url(../pp/white3.jpeg);
+        height: 1300px;
+        background-size: contain;
+        width: 1540px;
+    }
+    .foot {
+        width: 1440px;
+        background-color: #0d032a;
+        padding: 50px;
+        height: 800px;
+    }
+    .div02 {
+        background-image: url(../pp/white3.jpeg);
+        height: 1200px;
+        padding: 20px;
+        width: 1500px;
+    }
+    
+ }
